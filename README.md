@@ -1,1 +1,3 @@
-# jandevel.github.io
+# Data Science portfolio by Dmitrii Petukhov
+This repository contains a collection of my projects which I created from . Some of them are from assignment tasks and in german language, which will be translated as soon as I find the time.
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
