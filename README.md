@@ -6,10 +6,10 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 - ### Articles
 
-	- [The Gini coefficient. From economics to ML.](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+	- [The Gini coefficient. From economics to ML.](https://habr.com/company/ods/blog/350440/): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.[nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)
 
-	_Tools: Python, Pandas, Numpy, Matplotlib, Seaborn 
+	_Tools: Mathematics,  Probability Theory, Python_ 
 
 - ### Projects
 
