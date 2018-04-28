@@ -6,9 +6,9 @@ If you like what you see and you want to have a chat with me about the portfolio
 
 - ### Articles
 
-	- [The Gini coefficient. From economics to Machine Learning.](https://habr.com/company/ods/blog/350440/)
-	The purpose of the article is to describe in detail the Gini coefficient metric and to derive formula for this metric by myself. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)
-	_Tools: Mathematics,  Probability Theory, Python_ 
+	- [The Gini coefficient. From economics to Machine Learning.](https://habr.com/company/ods/blog/350440/)<br>
+The purpose of the article is to describe in detail the Gini coefficient metric and to derive formula for this metric by myself. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)<br>
+_Tools: Mathematics,  Probability Theory, Python_ 
 	- [Creating a Virtual Machine in Google Cloud Platform.](https://habr.com/post/341446/)
-	In this article I showed how to create a VM Instance in Google Cloud Platform. 
-	_Tools: Google Cloud Platform,  bash_ 
+In this article I showed how to create a VM Instance in Google Cloud Platform. 
+_Tools: Google Cloud Platform,  bash_ 
