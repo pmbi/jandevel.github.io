@@ -1,3 +1,4 @@
+
 # Data Science portfolio by Dmitrii Petukhov
 
 This repository contains a collection of my projects and articles which I have been worked on since September 2017. The projects are written in Python (Jupyter Notebook) for competitions, assignment tasks, self learning and hobby purposes. Click on the projects or articles to see full text, analysis and code.
@@ -15,9 +16,9 @@ _Keywords: Google Cloud Platform,  bash_
 
 - ### Projects
 
-	- [Jigsaw - Toxic comment classification.](https://habr.com/company/ods/blog/350440/)<br>
-This is my individual project on ML Course Open where I got first place in the rank. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)<br>
-_Keywords: Python, Data Analysis, Classification, NLP_ 
+	- [Jigsaw - Toxic comment classification.](https://github.com/jandevel/jandevel.github.io/blob/master/jigsaw/project_jigsaw_petukhov_dmitrii.ipynb)<br>
+This is my individual project on ML Course Open where I got first place in the rank. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/jigsaw/project_jigsaw_petukhov_dmitrii.ipynb)<br>
+_Keywords: Python, Data Analysis, Classification, NLP, ROC-AUC_ 
 
 - ### Data Analysis and Visualisation
 
