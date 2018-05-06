@@ -8,7 +8,19 @@ If you like what you see and you want to have a chat with me about the portfolio
 
 	- [The Gini coefficient. From economics to Machine Learning.](https://habr.com/company/ods/blog/350440/)<br>
 The purpose of the article is to describe in detail the Gini coefficient metric and to derive formula for this metric by myself. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)<br>
-_Tools: Mathematics,  Probability Theory, Python_ 
+_Keywords: Mathematics,  Probability Theory, Python_ 
 	- [Creating a Virtual Machine in Google Cloud Platform.](https://habr.com/post/341446/)<br>
 In this article I showed how to create a VM Instance in Google Cloud Platform.<br> 
-_Tools: Google Cloud Platform,  bash_ 
+_Keywords: Google Cloud Platform,  bash_ 
+
+- ### Projects
+
+	- [Jigsaw - Toxic comment classification.](https://habr.com/company/ods/blog/350440/)<br>
+This is my individual project on ML Course Open where I got first place in the rank. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)<br>
+_Keywords: Python, Data Analysis, Classification, NLP_ 
+
+- ### Data Analysis and Visualisation
+
+	- [Clap it - Exploratory Data Analysis](https://www.kaggle.com/jandevel/clap-it-exploratory-data-analysis)<br>
+The purpose of the article is to describe in detail the Gini coefficient metric and to derive formula for this metric by myself. [nbviewer](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/gini_coefficient/Gini_coefficient.ipynb)<br>
+_Keywords: Python,  Data Analysis, Data Visualisation_ 
