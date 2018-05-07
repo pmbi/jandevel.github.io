@@ -32,12 +32,12 @@ _Keywords: Python, Regression, MAE, NLP_
 The goal of this time series-connected task is to forecast an average wage in Russia.<br>
 _Keywords: Python, Time Series_
 
-	- [Corporaci?n Favorita Grocery Sales Forecasting](https://github.com/jandevel/jandevel.github.io/blob/master/favorita_grocery.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/favorita_grocery.ipynb)<br>
+	- [Favorita Grocery Sales Forecasting](https://github.com/jandevel/jandevel.github.io/blob/master/favorita_grocery.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/favorita_grocery.ipynb)<br>
 In this competition-project I built a model that forecasts product sales for a large Ecuadorian-based grocery retailer (Kaggle featured competition, the 180th place out of 1675).<br>
 _Keywords: Python, Regression, NWRMSLE, Time Series_ 
 
 - ### Data Analysis and Visualisation
 
 	- [Clap it - Exploratory Data Analysis](https://www.kaggle.com/jandevel/clap-it-exploratory-data-analysis)<br>
-The purpose of this kaggle kernel is to make exploratory data analysis for the kaggle competition "How good is your Medium article?"
+The purpose of this kaggle kernel is to make exploratory data analysis for the kaggle competition "How good is your Medium article?"<br>
 _Keywords: Python,  Data Analysis, Data Visualisation, Seaborn, NLP_ 
