@@ -16,7 +16,7 @@ _Keywords: Google Cloud Platform,  bash_
 - ### Projects
 
 	- [Jigsaw - Toxic comment classification.](https://github.com/jandevel/jandevel.github.io/blob/master/jigsaw/project_jigsaw_petukhov_dmitrii.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/jigsaw/project_jigsaw_petukhov_dmitrii.ipynb)<br>
-This is my individual project on ML Course Open where I got first place in the rank. In this project I built a multi-headed model that`s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. I used a dataset of comments from Wikipedia’s talk page edits. <br>
+This is my individual project on ML Course Open where I got first place in the rank. In this project I built a multi-headed model that`s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. I used a dataset of comments from Wikipedia`s talk page edits. <br>
 _Keywords: Python, Data Analysis, Classification, NLP, ROC-AUC_ 
 
 	- [Catch me if you can: intruder detection.](https://github.com/jandevel/jandevel.github.io/blob/master/catch_me/catch_me_petukhov.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/catch_me/catch_me_petukhov.ipynb)<br>
