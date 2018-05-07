@@ -25,8 +25,12 @@ This is my individual project on "Machine learning and data analysis" specialty 
 _Keywords: Python, Data Analysis, Classification, ROC-AUC_ 
 
 	- [How good is your Medium article?](https://github.com/jandevel/jandevel.github.io/blob/master/medium_petukhov_dmitrii_9_place.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/medium_petukhov_dmitrii_9_place.ipynb)<br>
-Kaggle competition where the goal is to predict the number of claps (recommendations) for an article published on Medium (the 9th place out of 386).<br>
+The Kaggle competition where the goal is to predict the number of claps (recommendations) for an article published on Medium (the 9th place out of 386).<br>
 _Keywords: Python, Regression, MAE, NLP_ 
+
+	- [The forecasting of an average wage in Russia.](https://github.com/jandevel/jandevel.github.io/blob/master/wage_forecasting.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/wage_forecasting.ipynb)<br>
+The goal of this time series-connected task is to forecast an average wage in Russia.<br>
+_Keywords: Python, Time Series_
 
 - ### Data Analysis and Visualisation
 
