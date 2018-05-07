@@ -50,6 +50,6 @@ _Keywords: Python, Classification, Normalized Gini Coefficient, Imbalanced_
 The purpose of this kaggle kernel is to make exploratory data analysis for the kaggle competition "How good is your Medium article?"<br>
 _Keywords: Python,  Data Analysis, Data Visualisation, Seaborn, NLP_ 
 
-	- [Catch me if you can - Exploratory Data Analysis](https://github.com/jandevel/jandevel.github.io/blob/master/data.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/porto.ipynb)<br>
-The purpose is to make exploratory data analysis for the kaggle competition "Catch me if you can: intruder detection."<br>
+	- [Catch me if you can - Exploratory Data Analysis](https://github.com/jandevel/jandevel.github.io/blob/master/catch_me/data_visualization.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/catch_me/data_visualization.ipynb)<br>
+The goal of this notebook is to make exploratory data analysis for the kaggle competition "Catch me if you can: intruder detection."<br>
 _Keywords: Python,  Data Analysis, Data Visualisation, Seaborn, Imbalanced_ 
