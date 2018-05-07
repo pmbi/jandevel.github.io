@@ -34,7 +34,15 @@ _Keywords: Python, Time Series_
 
 	- [Favorita Grocery Sales Forecasting](https://github.com/jandevel/jandevel.github.io/blob/master/favorita_grocery.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/favorita_grocery.ipynb)<br>
 In this competition-project I built a model that forecasts product sales for a large Ecuadorian-based grocery retailer (Kaggle featured competition, the 180th place out of 1675).<br>
-_Keywords: Python, Regression, NWRMSLE, Time Series_ 
+_Keywords: Python, Regression, NWRMSLE, Time Series_
+
+	- [Recruit Restaurant Visitor Forecasting](https://github.com/jandevel/jandevel.github.io/blob/master/recruit.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/recruit.ipynb)<br>
+In this competition I use reservation and visitation data to predict the total number of visitors to a restaurant for future dates (Kaggle featured competition, the 712th place out of 2158).<br>
+_Keywords: Python, Regression, RMSLE, Time Series_ 
+
+	- [Porto Seguro’s Safe Driver Prediction](https://github.com/jandevel/jandevel.github.io/blob/master/porto.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/porto.ipynb)<br>
+In this my first competition I built a model that predicts the probability that a driver will initiate an auto insurance claim in the next year (Kaggle featured competition, the 1167th place out of 5169).<br>
+_Keywords: Python, Classification, Normalized Gini Coefficient, Imbalanced_ 
 
 - ### Data Analysis and Visualisation
 
