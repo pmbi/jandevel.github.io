@@ -22,7 +22,7 @@ _Keywords: Python, Data Analysis, Classification, NLP, ROC-AUC_
 
 	- [Catch me if you can: intruder detection.](https://github.com/jandevel/jandevel.github.io/blob/master/catch_me/catch_me_petukhov.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/catch_me/catch_me_petukhov.ipynb)<br>
 This is my individual project on "Machine learning and data analysis" specialty by Yandex and MIPT (six courses). In this project I built a model that detect an internet user through webpage session tracking<br>
-_Keywords: Python, Data Analysis, Classification, ROC-AUC_ 
+_Keywords: Python, Data Analysis, Classification, ROC-AUC, Imbalanced_ 
 
 	- [How good is your Medium article?](https://github.com/jandevel/jandevel.github.io/blob/master/medium_petukhov_dmitrii_9_place.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/medium_petukhov_dmitrii_9_place.ipynb)<br>
 The Kaggle competition where the goal is to predict the number of claps (recommendations) for an article published on Medium (the 9th place out of 386).<br>
@@ -49,3 +49,7 @@ _Keywords: Python, Classification, Normalized Gini Coefficient, Imbalanced_
 	- [Clap it - Exploratory Data Analysis](https://www.kaggle.com/jandevel/clap-it-exploratory-data-analysis)<br>
 The purpose of this kaggle kernel is to make exploratory data analysis for the kaggle competition "How good is your Medium article?"<br>
 _Keywords: Python,  Data Analysis, Data Visualisation, Seaborn, NLP_ 
+
+	- [Catch me if you can - Exploratory Data Analysis](https://github.com/jandevel/jandevel.github.io/blob/master/data.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/porto.ipynb)<br>
+The purpose is to make exploratory data analysis for the kaggle competition "Catch me if you can: intruder detection."<br>
+_Keywords: Python,  Data Analysis, Data Visualisation, Seaborn, Imbalanced_ 
