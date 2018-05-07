@@ -1,4 +1,3 @@
-
 # Data Science portfolio by Dmitrii Petukhov
 
 This repository contains a collection of my projects and articles which I have been worked on since September 2017. The projects are written in Python (Jupyter Notebook) for competitions, assignment tasks, self learning and hobby purposes. Click on the projects or articles to see full text, analysis and code.
@@ -17,7 +16,7 @@ _Keywords: Google Cloud Platform,  bash_
 - ### Projects
 
 	- [Jigsaw - Toxic comment classification.](https://github.com/jandevel/jandevel.github.io/blob/master/jigsaw/project_jigsaw_petukhov_dmitrii.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/jigsaw/project_jigsaw_petukhov_dmitrii.ipynb)<br>
-This is my individual project on ML Course Open where I got first place in the rank. In this project I built a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. I used a dataset of comments from Wikipedia’s talk page edits. <br>
+This is my individual project on ML Course Open where I got first place in the rank. In this project I built a multi-headed model that`s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. I used a dataset of comments from Wikipedia’s talk page edits. <br>
 _Keywords: Python, Data Analysis, Classification, NLP, ROC-AUC_ 
 
 	- [Catch me if you can: intruder detection.](https://github.com/jandevel/jandevel.github.io/blob/master/catch_me/catch_me_petukhov.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/catch_me/catch_me_petukhov.ipynb)<br>
@@ -40,7 +39,7 @@ _Keywords: Python, Regression, NWRMSLE, Time Series_
 In this competition I use reservation and visitation data to predict the total number of visitors to a restaurant for future dates (Kaggle featured competition, the 712th place out of 2158).<br>
 _Keywords: Python, Regression, RMSLE, Time Series_ 
 
-	- [Porto Seguro’s Safe Driver Prediction](https://github.com/jandevel/jandevel.github.io/blob/master/porto.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/porto.ipynb)<br>
+	- [Porto Seguro`s Safe Driver Prediction](https://github.com/jandevel/jandevel.github.io/blob/master/porto.ipynb) [(nbviewer)](http://nbviewer.jupyter.org/github/jandevel/jandevel.github.io/blob/master/porto.ipynb)<br>
 In this my first competition I built a model that predicts the probability that a driver will initiate an auto insurance claim in the next year (Kaggle featured competition, the 1167th place out of 5169).<br>
 _Keywords: Python, Classification, Normalized Gini Coefficient, Imbalanced_ 
 
